@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: study
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Ma
 language: en
 timezone: ''
 
@@ -100,7 +100,7 @@ theme: landscape
 deploy:
     type: git
     repo: git@github.com:misterma77/study.git
-    branch: page
+    branch: master
 
 # backup:
 #   type: git
